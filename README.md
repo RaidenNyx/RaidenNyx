@@ -1,93 +1,66 @@
+<div align="center">
+
 # 🌸 Hey, I'm Swayam!
 
-### Computer Science Engineering Student · AI · IoT · Computer Vision
+### `Computer Science Engineering Student`
 
-I enjoy building things that bring together **software, hardware, and AI**.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BD83A8&center=true&vCenter=true&width=600&lines=Building+things+I+find+interesting+%E2%9C%A8;AI+%C2%B7+IoT+%C2%B7+Software;Always+learning+something+new+%F0%9F%8C%B8" />
 
-## 🌸 My Portfolio
-
-<p align="center">
+<br><br>
 
 <a href="https://raidennyx.github.io/anime-portfolio/">
-<img src="https://img.shields.io/badge/🌸%20ENTER%20MY%20PORTFOLIO-bd83a8?style=for-the-badge&logoColor=white" alt="My Portfolio">
+<img src="https://img.shields.io/badge/🌸%20VISIT%20MY%20PORTFOLIO-bd83a8?style=for-the-badge&labelColor=24232a" />
 </a>
 
-</p>
+</div>
 
 ---
 
-## ✦ About Me
+## ✦ A little about me
 
-I'm a Computer Science Engineering student interested in creating
-practical systems using AI, computer vision, IoT, and embedded technology.
+I'm a Computer Science Engineering student who likes
+**building, experimenting and figuring out how things work.**
 
-I enjoy experimenting with new technologies and turning ideas into
-working projects.
+I'm particularly interested in the intersection of:
 
----
+`AI` · `IoT` · `Computer Vision` · `Software`
 
-## 🛠️ What I Work With
-
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🔌 IoT & Embedded Systems
-- 🐍 Python
-- 🌐 Web Development
-- 🧠 Machine Learning
-- 🍓 Raspberry Pi
-- ⚡ ESP32
+I enjoy turning random ideas into something that actually works.
 
 ---
 
-## 🚀 Things I've Built
+<div align="center">
 
-### 🤟 Hand Sign Language Translator
+### 🌸 Somewhere between code and imagination.
 
-A smart-glove based system combining sensors, ESP32, Raspberry Pi,
-and machine learning to recognize hand gestures.
+<br>
 
-### 🤖 Computer Vision Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd83a8,100:f3d9e8&height=100&section=footer" />
 
-Projects involving image processing, object detection,
-and real-time computer vision.
-
-### 📡 IoT & Embedded Systems
-
-Hardware-focused projects using ESP32, Raspberry Pi,
-sensors, wireless communication, and automation.
+</div>
 
 ---
 
-## 🌐 Find Me
+<div align="center">
 
-📧 **Email:** swayamdas84@gmail.com
+### Find me elsewhere
 
-💻 **GitHub:** [@RaidenNyx](https://github.com/RaidenNyx)
+<a href="https://github.com/RaidenNyx">
+<img src="https://img.shields.io/badge/GitHub-RaidenNyx-24232a?style=for-the-badge&logo=github" />
+</a>
 
-🌸 **Portfolio:** [Visit my portfolio](https://raidennyx.github.io/anime-portfolio/)
+<a href="https://www.linkedin.com/in/swayam-das-598054210/">
+<img src="https://img.shields.io/badge/LinkedIn-Swayam%20Das-24232a?style=for-the-badge&logo=linkedin" />
+</a>
 
-💼 **LinkedIn:** Add your LinkedIn link here
+<a href="mailto:swayamdas84@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-24232a?style=for-the-badge&logo=gmail" />
+</a>
 
----
+<br><br>
 
-<p align="center">
+**🌸 Curious mind. Constantly building.**
 
-### 🌸 Building technology with a little imagination.
-
-</p>
-<!--
-**RaidenNyx/RaidenNyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
